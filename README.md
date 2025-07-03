@@ -7,7 +7,7 @@
 ## Структура проекта
 
 ```
-/google auth no d/
+/OAuthBridge-Google/
 │
 ├── ssl/                # SSL-сертификаты (key.pem, cert.pem)
 ├── .env                # Переменные окружения
